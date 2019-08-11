@@ -1053,5 +1053,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06debf5dbc363464f98870828533975c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animationSpeed: 0
-  maxRotation: 0
+  animationSpeed: 1
+  maxRotation: 180

@@ -10,3 +10,4 @@
 ## Blog
 
 - [【Unity】TextMeshPro で文字１つ１つをアニメーションしてみる【サンプルあり】](https://gurutaka-log.com/unity-textmeshpro-animation)
+- [【Unity】TextMeshPro で文字単位で回転させるアニメーションを紹介する](https://gurutaka-log.com/unity-textmeshpro-rotate)
